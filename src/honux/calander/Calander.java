@@ -4,7 +4,7 @@ public class Calander {
 	public static void main(String[] args) throws Exception {
 	
 
-		System.out.println("  ÀÏ    ¿ù    È­    ¼ö   ¸ñ    ±İ    Åä");
+		System.out.println("  ì¼    ì›”    ìˆ˜    ëª©   ê¸ˆ    í†     ì¼");
 
 		System.out.println("--------------------");
 		System.out.println(" 1  2  3  4  5  6  7");
